@@ -7,3 +7,4 @@
  Tantargy penzugy= new Tantargy("Pénzügyi és vállalkozási alapismeretek");
  Tantargy  = new Tantargy("");
  
+
