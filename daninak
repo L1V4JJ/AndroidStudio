@@ -1,0 +1,9 @@
+ Tantargy tesneveles = new Tantargy("Tesnevelés");
+ Tantargy tortenelem = new Tantargy("Történelem");
+ Tantargy angol = new Tantargy("Angol");
+ Tantargy informatika = new Tantargy("Informatika");
+ Tantargy szakmaiangol = new Tantargy("Szakmai angol");
+ Tantargy halozatgyak = new Tantargy("Hálózati gyakorlat");
+ Tantargy penzugy= new Tantargy("Pénzügyi és vállalkozási alapismeretek");
+ Tantargy  = new Tantargy("");
+ 
