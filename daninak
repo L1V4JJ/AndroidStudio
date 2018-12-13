@@ -1,3 +1,4 @@
+ //Órák
  Tantargy tesneveles = new Tantargy("Tesnevelés");
  Tantargy tortenelem = new Tantargy("Történelem");
  Tantargy angol = new Tantargy("Angol");
@@ -7,4 +8,7 @@
  Tantargy penzugy= new Tantargy("Pénzügyi és vállalkozási alapismeretek");
  Tantargy  = new Tantargy("");
  
-
+ //Tanárok
+ tanarok.add(new Tanar("Pethő Szilvia"));
+ tanarok.lastElement().tanit(tesneveles);
+ tanarok.lastElement().dolgozik(csany);
