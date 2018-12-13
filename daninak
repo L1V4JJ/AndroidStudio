@@ -12,3 +12,7 @@
  tanarok.add(new Tanar("Pethő Szilvia"));
  tanarok.lastElement().tanit(tesneveles);
  tanarok.lastElement().dolgozik(csany);
+
+ tanarok.add(new Tanar("Surányi Szabolcs"));
+ tanarok.lastElement().tanit(tortenelem);
+ tanarok.lastElement().dolgozik(csany);
